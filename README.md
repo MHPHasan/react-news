@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live link: https://rns.netlify.app/
+Live link: https://react-newss.netlify.app/
 
 ## Available Scripts
 
